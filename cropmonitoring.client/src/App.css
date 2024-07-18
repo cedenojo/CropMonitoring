@@ -1,0 +1,34 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+/*ESTILO PARA EL LOGUEO*/
+.login-container {
+    text-align: center;
+    
+}
+.form-group1 {
+    text-align: center;
+    text-indent: -50px;
+}
+.No_register {
+    text-decoration: underline;
+}
+.Loginn {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: aqua;
+    text-align: 100px;
+    width: 70%;
+}
+.Menu-one {
+    color: aqua;
+    text-transform: uppercase;
+    text-align: center;
+}

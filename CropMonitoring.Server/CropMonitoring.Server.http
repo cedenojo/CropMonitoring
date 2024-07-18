@@ -1,0 +1,6 @@
+@CropMonitoring.Server_HostAddress = http://localhost:5102
+
+GET {{CropMonitoring.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
